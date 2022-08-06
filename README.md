@@ -12,4 +12,4 @@
 
 # Удаляем контакт
 
-![node index.js --action remove --id=3](https://monosnap.com/file/PuKTL9rMGzsnUuAMOvZihjkRC4T1gd)
+[node index.js --action remove --id=3](https://monosnap.com/file/PuKTL9rMGzsnUuAMOvZihjkRC4T1gd)
